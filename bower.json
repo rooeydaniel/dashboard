@@ -1,0 +1,12 @@
+{
+    "name": "cc-bootstrap-dashboard",
+    "version": "0.0.1",
+    "authors": [
+        "Daniel Stephenson <dstephenson@codingcamp.us>"
+    ],
+    "description": "This is built from the Bootstrap Dashboard example.",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "latest"
+    }
+}
